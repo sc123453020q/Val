@@ -2,7 +2,7 @@ import { Routes, Route } from "react-router-dom"
 import Home from "./pages/Home"
 import Proposal from "./pages/Proposal"
 import YesPage from "./pages/YesPage"
-import Navbar from "./components/navbar"
+import Navbar from "./components/Navbar"
 
 function App() {
   return (
